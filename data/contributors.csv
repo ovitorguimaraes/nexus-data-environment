@@ -1,0 +1,533 @@
+cnpj;legal_name;trade_name;establishment_type;municipal_registration;ibge_code;status
+GW9W5L4H000165;Nexus Tax Technology S.A;Nexus;HEADQUARTERS;482719;3106705;ACTIVE
+GW9W5L4H5CT756;Nexus Tax Technology S.A;Data Nexus;BRANCH;736284;3106200;ACTIVE
+58417311000130;Aurivale Tecnologia e Sistemas S.A.;Aurivale Tech;HEADQUARTERS;123911;3550308;INACTIVE
+45210446000189;Brisalto Logística e Transportes Ltda.;Brisalto Logística;HEADQUARTERS;139338;2304400;INACTIVE
+47476661000151;Cedalume Comércio de Alimentos Ltda.;Cedalume Alimentos;HEADQUARTERS;154765;3304557;ACTIVE
+47476661010033;Cedalume Comércio de Alimentos Ltda.;Cedalume Alimentos - Curitiba 01;BRANCH;170192;4106902;INACTIVE
+84221751000128;Dunaviva Engenharia e Projetos Ltda.;Dunaviva Engenharia;HEADQUARTERS;185619;4205407;ACTIVE
+62562357000110;Estrelume Consultoria Empresarial Ltda.;Estrelume Consultoria;HEADQUARTERS;201046;4314902;ACTIVE
+23113833000164;Floravento Serviços Educacionais Ltda.;Floravento Educação;HEADQUARTERS;216473;1302603;ACTIVE
+50190283000150;Graniluz Soluções Ambientais Ltda.;Graniluz Ambiental;HEADQUARTERS;231900;2927408;ACTIVE
+50190283528057;Graniluz Soluções Ambientais Ltda.;Graniluz Ambiental - Fortaleza 01;BRANCH;247327;2304400;ACTIVE
+50190283624013;Graniluz Soluções Ambientais Ltda.;Graniluz Ambiental - Recife 02;BRANCH;262754;2611606;ACTIVE
+78401555000132;Horizonte Azul Comércio de Materiais de Construção Ltda.;Horizonte Azul Construção;HEADQUARTERS;278181;3106200;ACTIVE
+01557767000189;Ipê Dourado Comunicação e Marketing Ltda.;Ipê Dourado Comunicação;HEADQUARTERS;293608;2611606;ACTIVE
+00447650000180;Jatobá Novo Confecções e Comércio Têxtil Ltda.;Jatobá Novo Têxtil;HEADQUARTERS;309035;4106902;ACTIVE
+88967383000112;Lago Sereno Manutenção Industrial Ltda.;Lago Sereno Industrial;HEADQUARTERS;324462;5208707;ACTIVE
+79781014000140;Monte Âmbar Turismo e Eventos S.A.;Monte Âmbar Turismo;HEADQUARTERS;339889;5300108;ACTIVE
+02716150000121;Nuvem Clara Móveis e Decoração Ltda.;Nuvem Clara Móveis;HEADQUARTERS;355316;3550308;ACTIVE
+86553251000119;Orivalle Serviços Administrativos Ltda.;Orivalle Serviços;HEADQUARTERS;370743;2304400;ACTIVE
+02082783000125;Pedra Serena Equipamentos e Suprimentos Ltda.;Pedra Serena Equipamentos;HEADQUARTERS;386170;3304557;ACTIVE
+66853750000114;Quintal Verde Tecnologia e Sistemas Ltda.;Quintal Verde Tech;HEADQUARTERS;401597;4205407;ACTIVE
+47668779000181;Riacho Novo Logística e Transportes Ltda.;Riacho Novo Logística;HEADQUARTERS;417024;4314902;ACTIVE
+33608599000108;Serra Límpida Comércio de Alimentos Ltda.;Serra Límpida Alimentos;HEADQUARTERS;432451;1302603;ACTIVE
+33608599153605;Serra Límpida Comércio de Alimentos Ltda.;Serra Límpida Alimentos - São Paulo 01;BRANCH;447878;3550308;ACTIVE
+33608599312339;Serra Límpida Comércio de Alimentos Ltda.;Serra Límpida Alimentos - Belo Horizonte 02;BRANCH;463305;3106200;ACTIVE
+33608599577049;Serra Límpida Comércio de Alimentos Ltda.;Serra Límpida Alimentos - Rio de Janeiro 03;BRANCH;478732;3304557;ACTIVE
+33608599797677;Serra Límpida Comércio de Alimentos Ltda.;Serra Límpida Alimentos - Curitiba 04;BRANCH;494159;4106902;ACTIVE
+32858808000109;Terravento Engenharia e Projetos Ltda.;Terravento Engenharia;HEADQUARTERS;509586;2927408;ACTIVE
+07081549000105;Umbraluz Consultoria Empresarial Ltda.;Umbraluz Consultoria;HEADQUARTERS;525013;3106200;ACTIVE
+69027389000165;Vale Safira Serviços Educacionais Ltda.;Vale Safira Educação;HEADQUARTERS;540440;2611606;ACTIVE
+75612342000161;Veredamar Soluções Ambientais Ltda.;Veredamar Ambiental;HEADQUARTERS;555867;4106902;ACTIVE
+75612342308964;Veredamar Soluções Ambientais Ltda.;Veredamar Ambiental - Porto Alegre 01;BRANCH;571294;4314902;ACTIVE
+77692075000105;Ventoclaro Comércio de Materiais de Construção S.A.;Ventoclaro Construção;HEADQUARTERS;586721;5208707;ACTIVE
+04013558000162;Cedro Nobre Comunicação e Marketing Ltda.;Cedro Nobre Comunicação;HEADQUARTERS;602148;5300108;ACTIVE
+03024940000109;Bosque Solar Confecções e Comércio Têxtil Ltda.;Bosque Solar Têxtil;HEADQUARTERS;617575;3550308;ACTIVE
+42417058000185;Pontal Novo Manutenção Industrial Ltda.;Pontal Novo Industrial;HEADQUARTERS;633002;2304400;ACTIVE
+42417058334555;Pontal Novo Manutenção Industrial Ltda.;Pontal Novo Industrial - Recife 01;BRANCH;648429;2611606;ACTIVE
+42417058827900;Pontal Novo Manutenção Industrial Ltda.;Pontal Novo Industrial - Florianópolis 02;BRANCH;663856;4205407;ACTIVE
+90887470000101;Rota Dourada Turismo e Eventos Ltda.;Rota Dourada Turismo;HEADQUARTERS;679283;3304557;ACTIVE
+95986448000132;Sol de Minas Móveis e Decoração Ltda.;Sol de Minas Móveis;HEADQUARTERS;694710;4205407;ACTIVE
+92990653000183;Campo Sereno Serviços Administrativos Ltda.;Campo Sereno Serviços;HEADQUARTERS;710137;4314902;ACTIVE
+89926757000114;Arco Celeste Equipamentos e Suprimentos Ltda.;Arco Celeste Equipamentos;HEADQUARTERS;725564;1302603;ACTIVE
+09368005000146;Aurivale Logística e Transportes Ltda.;Aurivale Logística;HEADQUARTERS;740991;2927408;ACTIVE
+00070689000120;Brisalto Comércio de Alimentos Ltda.;Brisalto Alimentos;HEADQUARTERS;756418;3106200;ACTIVE
+57400035000135;Cedalume Engenharia e Projetos Ltda.;Cedalume Engenharia;HEADQUARTERS;771845;2611606;ACTIVE
+04281386000108;Dunaviva Consultoria Empresarial S.A.;Dunaviva Consultoria;HEADQUARTERS;787272;4106902;ACTIVE
+63586490000170;Estrelume Serviços Educacionais Ltda.;Estrelume Educação;HEADQUARTERS;802699;5208707;ACTIVE
+44327023000180;Floravento Soluções Ambientais Ltda.;Floravento Ambiental;HEADQUARTERS;818126;5300108;ACTIVE
+15816590000100;Graniluz Comércio de Materiais de Construção Ltda.;Graniluz Construção;HEADQUARTERS;833553;3550308;ACTIVE
+06366602000143;Horizonte Azul Comunicação e Marketing Ltda.;Horizonte Azul Comunicação;HEADQUARTERS;848980;2304400;ACTIVE
+70283262000196;Ipê Dourado Confecções e Comércio Têxtil Ltda.;Ipê Dourado Têxtil;HEADQUARTERS;864407;3304557;ACTIVE
+40499533000184;Jatobá Novo Manutenção Industrial Ltda.;Jatobá Novo Industrial;HEADQUARTERS;879834;4205407;ACTIVE
+40758837000119;Lago Sereno Turismo e Eventos Ltda.;Lago Sereno Turismo;HEADQUARTERS;895261;4314902;ACTIVE
+06703937000100;Monte Âmbar Móveis e Decoração Ltda.;Monte Âmbar Móveis;HEADQUARTERS;910688;1302603;ACTIVE
+85239289000159;Nuvem Clara Serviços Administrativos Ltda.;Nuvem Clara Serviços;HEADQUARTERS;926115;2927408;ACTIVE
+60031250000110;Orivalle Equipamentos e Suprimentos Ltda.;Orivalle Equipamentos;HEADQUARTERS;941542;3106200;ACTIVE
+97586728000189;Pedra Serena Tecnologia e Sistemas S.A.;Pedra Serena Tech;HEADQUARTERS;956969;2611606;ACTIVE
+50787520000164;Quintal Verde Logística e Transportes Ltda.;Quintal Verde Logística;HEADQUARTERS;972396;4106902;ACTIVE
+84962028000108;Riacho Novo Comércio de Alimentos Ltda.;Riacho Novo Alimentos;HEADQUARTERS;987823;5208707;ACTIVE
+12337457000175;Serra Límpida Engenharia e Projetos Ltda.;Serra Límpida Engenharia;HEADQUARTERS;103250;5300108;ACTIVE
+12337457931985;Serra Límpida Engenharia e Projetos Ltda.;Serra Límpida Engenharia - Salvador 01;BRANCH;118677;2927408;ACTIVE
+12337457863530;Serra Límpida Engenharia e Projetos Ltda.;Serra Límpida Engenharia - Fortaleza 02;BRANCH;134104;2304400;ACTIVE
+48104819000125;Terravento Consultoria Empresarial Ltda.;Terravento Consultoria;HEADQUARTERS;149531;3550308;ACTIVE
+46234584000160;Umbraluz Serviços Educacionais Ltda.;Umbraluz Educação;HEADQUARTERS;164958;2304400;ACTIVE
+54381758000146;Vale Safira Soluções Ambientais Ltda.;Vale Safira Ambiental;HEADQUARTERS;180385;3304557;ACTIVE
+60850508000100;Veredamar Comércio de Materiais de Construção Ltda.;Veredamar Construção;HEADQUARTERS;195812;4205407;ACTIVE
+06064081000170;Ventoclaro Comunicação e Marketing Ltda.;Ventoclaro Comunicação;HEADQUARTERS;211239;4314902;ACTIVE
+06064081507401;Ventoclaro Comunicação e Marketing Ltda.;Ventoclaro Comunicação - Brasília 01;BRANCH;226666;5300108;ACTIVE
+06064081301536;Ventoclaro Comunicação e Marketing Ltda.;Ventoclaro Comunicação - Salvador 02;BRANCH;242093;2927408;ACTIVE
+48345489000160;Cedro Nobre Confecções e Comércio Têxtil Ltda.;Cedro Nobre Têxtil;HEADQUARTERS;257520;1302603;ACTIVE
+27950654000132;Bosque Solar Manutenção Industrial Ltda.;Bosque Solar Industrial;HEADQUARTERS;272947;2927408;ACTIVE
+02135757000118;Pontal Novo Turismo e Eventos S.A.;Pontal Novo Turismo;HEADQUARTERS;288374;3106200;ACTIVE
+06757956000119;Rota Dourada Móveis e Decoração Ltda.;Rota Dourada Móveis;HEADQUARTERS;303801;2611606;ACTIVE
+75653348000187;Sol de Minas Serviços Administrativos Ltda.;Sol de Minas Serviços;HEADQUARTERS;319228;4106902;ACTIVE
+09575009000103;Campo Sereno Equipamentos e Suprimentos Ltda.;Campo Sereno Equipamentos;HEADQUARTERS;334655;5208707;ACTIVE
+47622745000156;Arco Celeste Tecnologia e Sistemas Ltda.;Arco Celeste Tech;HEADQUARTERS;350082;5300108;ACTIVE
+57984235000182;Aurivale Comércio de Alimentos Ltda.;Aurivale Alimentos;HEADQUARTERS;365509;3550308;ACTIVE
+33452581000151;Brisalto Engenharia e Projetos Ltda.;Brisalto Engenharia;HEADQUARTERS;380936;2304400;ACTIVE
+97120809000199;Cedalume Consultoria Empresarial Ltda.;Cedalume Consultoria;HEADQUARTERS;396363;3304557;ACTIVE
+97120809603802;Cedalume Consultoria Empresarial Ltda.;Cedalume Consultoria - Curitiba 01;BRANCH;411790;4106902;ACTIVE
+97120809996510;Cedalume Consultoria Empresarial Ltda.;Cedalume Consultoria - Porto Alegre 02;BRANCH;427217;4314902;ACTIVE
+97120809519348;Cedalume Consultoria Empresarial Ltda.;Cedalume Consultoria - Brasília 03;BRANCH;442644;5300108;ACTIVE
+95179286000120;Dunaviva Serviços Educacionais Ltda.;Dunaviva Educação;HEADQUARTERS;458071;4205407;ACTIVE
+66360800000121;Estrelume Soluções Ambientais Ltda.;Estrelume Ambiental;HEADQUARTERS;473498;4314902;ACTIVE
+15470721000132;Floravento Comércio de Materiais de Construção Ltda.;Floravento Construção;HEADQUARTERS;488925;1302603;ACTIVE
+75685038000144;Graniluz Comunicação e Marketing S.A.;Graniluz Comunicação;HEADQUARTERS;504352;2927408;ACTIVE
+18514139000119;Horizonte Azul Confecções e Comércio Têxtil Ltda.;Horizonte Azul Têxtil;HEADQUARTERS;519779;3106200;ACTIVE
+96690786000195;Ipê Dourado Manutenção Industrial Ltda.;Ipê Dourado Industrial;HEADQUARTERS;535206;2611606;ACTIVE
+24973256000143;Jatobá Novo Turismo e Eventos Ltda.;Jatobá Novo Turismo;HEADQUARTERS;550633;4106902;ACTIVE
+93424304000167;Lago Sereno Móveis e Decoração Ltda.;Lago Sereno Móveis;HEADQUARTERS;566060;5208707;ACTIVE
+19474444000197;Monte Âmbar Serviços Administrativos Ltda.;Monte Âmbar Serviços;HEADQUARTERS;581487;5300108;ACTIVE
+44126042000149;Nuvem Clara Equipamentos e Suprimentos Ltda.;Nuvem Clara Equipamentos;HEADQUARTERS;596914;3550308;ACTIVE
+25318637000151;Orivalle Tecnologia e Sistemas Ltda.;Orivalle Tech;HEADQUARTERS;612341;2304400;ACTIVE
+39968874000172;Pedra Serena Logística e Transportes Ltda.;Pedra Serena Logística;HEADQUARTERS;627768;3304557;ACTIVE
+16032259000154;Quintal Verde Comércio de Alimentos Ltda.;Quintal Verde Alimentos;HEADQUARTERS;643195;4205407;ACTIVE
+91775757000102;Riacho Novo Engenharia e Projetos Ltda.;Riacho Novo Engenharia;HEADQUARTERS;658622;4314902;ACTIVE
+68052552000187;Serra Límpida Consultoria Empresarial S.A.;Serra Límpida Consultoria;HEADQUARTERS;674049;1302603;ACTIVE
+58436562000162;Terravento Serviços Educacionais Ltda.;Terravento Educação;HEADQUARTERS;689476;2927408;ACTIVE
+75403400000147;Umbraluz Soluções Ambientais Ltda.;Umbraluz Ambiental;HEADQUARTERS;704903;3106200;ACTIVE
+24486664000170;Vale Safira Comércio de Materiais de Construção Ltda.;Vale Safira Construção;HEADQUARTERS;720330;2611606;ACTIVE
+55861578000124;Veredamar Comunicação e Marketing Ltda.;Veredamar Comunicação;HEADQUARTERS;735757;4106902;ACTIVE
+83827072000134;Ventoclaro Confecções e Comércio Têxtil Ltda.;Ventoclaro Têxtil;HEADQUARTERS;751184;5208707;ACTIVE
+63632421000155;Cedro Nobre Manutenção Industrial Ltda.;Cedro Nobre Industrial;HEADQUARTERS;766611;5300108;ACTIVE
+32265499000155;Bosque Solar Turismo e Eventos Ltda.;Bosque Solar Turismo;HEADQUARTERS;782038;3550308;ACTIVE
+22479327000120;Pontal Novo Móveis e Decoração Ltda.;Pontal Novo Móveis;HEADQUARTERS;797465;2304400;ACTIVE
+21518063000104;Rota Dourada Serviços Administrativos Ltda.;Rota Dourada Serviços;HEADQUARTERS;812892;3304557;ACTIVE
+19666565000130;Sol de Minas Equipamentos e Suprimentos Ltda.;Sol de Minas Equipamentos;HEADQUARTERS;828319;4205407;ACTIVE
+86428577000114;Campo Sereno Tecnologia e Sistemas S.A.;Campo Sereno Tech;HEADQUARTERS;843746;4314902;ACTIVE
+88037819000174;Arco Celeste Logística e Transportes Ltda.;Arco Celeste Logística;HEADQUARTERS;859173;1302603;ACTIVE
+88037819482225;Arco Celeste Logística e Transportes Ltda.;Arco Celeste Logística - São Paulo 01;BRANCH;874600;3550308;ACTIVE
+88037819211035;Arco Celeste Logística e Transportes Ltda.;Arco Celeste Logística - Belo Horizonte 02;BRANCH;890027;3106200;ACTIVE
+88037819746907;Arco Celeste Logística e Transportes Ltda.;Arco Celeste Logística - Rio de Janeiro 03;BRANCH;905454;3304557;ACTIVE
+31067612000125;Aurivale Engenharia e Projetos Ltda.;Aurivale Engenharia;HEADQUARTERS;920881;2927408;ACTIVE
+64671564000139;Brisalto Consultoria Empresarial Ltda.;Brisalto Consultoria;HEADQUARTERS;936308;3106200;ACTIVE
+87963581000145;Cedalume Serviços Educacionais Ltda.;Cedalume Educação;HEADQUARTERS;951735;2611606;ACTIVE
+91435844000110;Dunaviva Soluções Ambientais Ltda.;Dunaviva Ambiental;HEADQUARTERS;967162;4106902;ACTIVE
+04177983000197;Estrelume Comércio de Materiais de Construção Ltda.;Estrelume Construção;HEADQUARTERS;982589;5208707;ACTIVE
+22250379000120;Floravento Comunicação e Marketing Ltda.;Floravento Comunicação;HEADQUARTERS;998016;5300108;ACTIVE
+99455594000192;Graniluz Confecções e Comércio Têxtil Ltda.;Graniluz Têxtil;HEADQUARTERS;113443;3550308;ACTIVE
+97861089000112;Horizonte Azul Manutenção Industrial Ltda.;Horizonte Azul Industrial;HEADQUARTERS;128870;2304400;ACTIVE
+54505603000174;Ipê Dourado Turismo e Eventos Ltda.;Ipê Dourado Turismo;HEADQUARTERS;144297;3304557;ACTIVE
+28008022000117;Jatobá Novo Móveis e Decoração S.A.;Jatobá Novo Móveis;HEADQUARTERS;159724;4205407;ACTIVE
+3SPNB8V1000138;Lago Sereno Serviços Administrativos Ltda.;Lago Sereno Serviços;HEADQUARTERS;175151;4314902;ACTIVE
+0PMHP7WW000163;Monte Âmbar Equipamentos e Suprimentos Ltda.;Monte Âmbar Equipamentos;HEADQUARTERS;190578;1302603;ACTIVE
+X40N57PW000102;Nuvem Clara Tecnologia e Sistemas Ltda.;Nuvem Clara Tech;HEADQUARTERS;206005;2927408;ACTIVE
+R33DMNAW000120;Orivalle Logística e Transportes Ltda.;Orivalle Logística;HEADQUARTERS;221432;3106200;ACTIVE
+R33DMNAWEMVK08;Orivalle Logística e Transportes Ltda.;Orivalle Logística - Rio de Janeiro 01;BRANCH;236859;3304557;ACTIVE
+81EX12A2000177;Pedra Serena Comércio de Alimentos Ltda.;Pedra Serena Alimentos;HEADQUARTERS;252286;2611606;ACTIVE
+9SHEAZZE000101;Quintal Verde Engenharia e Projetos Ltda.;Quintal Verde Engenharia;HEADQUARTERS;267713;4106902;ACTIVE
+2WCHDB6C000166;Riacho Novo Consultoria Empresarial Ltda.;Riacho Novo Consultoria;HEADQUARTERS;283140;5208707;ACTIVE
+7GT7HAKV000139;Serra Límpida Serviços Educacionais Ltda.;Serra Límpida Educação;HEADQUARTERS;298567;5300108;ACTIVE
+7GT7HAKVWVHX13;Serra Límpida Serviços Educacionais Ltda.;Serra Límpida Educação - Salvador 01;BRANCH;313994;2927408;ACTIVE
+7GT7HAKVSGM111;Serra Límpida Serviços Educacionais Ltda.;Serra Límpida Educação - Fortaleza 02;BRANCH;329421;2304400;ACTIVE
+19V8RD01000142;Terravento Soluções Ambientais Ltda.;Terravento Ambiental;HEADQUARTERS;344848;3550308;ACTIVE
+LMR1MSK6000154;Umbraluz Comércio de Materiais de Construção Ltda.;Umbraluz Construção;HEADQUARTERS;360275;2304400;ACTIVE
+J2GR2H7J000112;Vale Safira Comunicação e Marketing S.A.;Vale Safira Comunicação;HEADQUARTERS;375702;3304557;ACTIVE
+0V7S83DK000167;Veredamar Confecções e Comércio Têxtil Ltda.;Veredamar Têxtil;HEADQUARTERS;391129;4205407;ACTIVE
+1DXJTB7W000120;Ventoclaro Manutenção Industrial Ltda.;Ventoclaro Industrial;HEADQUARTERS;406556;4314902;ACTIVE
+0X37X2ZM000158;Cedro Nobre Turismo e Eventos Ltda.;Cedro Nobre Turismo;HEADQUARTERS;421983;1302603;ACTIVE
+0L8GW422000116;Bosque Solar Móveis e Decoração Ltda.;Bosque Solar Móveis;HEADQUARTERS;437410;2927408;ACTIVE
+61CH0CG1000123;Pontal Novo Serviços Administrativos Ltda.;Pontal Novo Serviços;HEADQUARTERS;452837;3106200;ACTIVE
+N6XAHNW2000177;Rota Dourada Equipamentos e Suprimentos Ltda.;Rota Dourada Equipamentos;HEADQUARTERS;468264;2611606;ACTIVE
+N6XAHNW22ZEB72;Rota Dourada Equipamentos e Suprimentos Ltda.;Rota Dourada Equipamentos - Florianópolis 01;BRANCH;483691;4205407;ACTIVE
+N6XAHNW2CBDK35;Rota Dourada Equipamentos e Suprimentos Ltda.;Rota Dourada Equipamentos - Goiânia 02;BRANCH;499118;5208707;ACTIVE
+N6XAHNW2NJ2D68;Rota Dourada Equipamentos e Suprimentos Ltda.;Rota Dourada Equipamentos - Manaus 03;BRANCH;514545;1302603;ACTIVE
+VY0GNY63000176;Sol de Minas Tecnologia e Sistemas Ltda.;Sol de Minas Tech;HEADQUARTERS;529972;4106902;ACTIVE
+BMXDJPNT000136;Campo Sereno Logística e Transportes Ltda.;Campo Sereno Logística;HEADQUARTERS;545399;5208707;ACTIVE
+M827YTSS000194;Arco Celeste Comércio de Alimentos Ltda.;Arco Celeste Alimentos;HEADQUARTERS;560826;5300108;ACTIVE
+N4VP152K000110;Aurivale Consultoria Empresarial Ltda.;Aurivale Consultoria;HEADQUARTERS;576253;3550308;ACTIVE
+X3EYLCXJ000105;Brisalto Serviços Educacionais S.A.;Brisalto Educação;HEADQUARTERS;591680;2304400;ACTIVE
+8B3G4LS9000194;Cedalume Soluções Ambientais Ltda.;Cedalume Ambiental;HEADQUARTERS;607107;3304557;ACTIVE
+ZDDL12Y4000140;Dunaviva Comércio de Materiais de Construção Ltda.;Dunaviva Construção;HEADQUARTERS;622534;4205407;ACTIVE
+BHHH6TH6000142;Estrelume Comunicação e Marketing Ltda.;Estrelume Comunicação;HEADQUARTERS;637961;4314902;ACTIVE
+DK624S2A000170;Floravento Confecções e Comércio Têxtil Ltda.;Floravento Têxtil;HEADQUARTERS;653388;1302603;ACTIVE
+SNK0Y537000186;Graniluz Manutenção Industrial Ltda.;Graniluz Industrial;HEADQUARTERS;668815;2927408;ACTIVE
+RS5HBKTA000149;Horizonte Azul Turismo e Eventos Ltda.;Horizonte Azul Turismo;HEADQUARTERS;684242;3106200;ACTIVE
+857ZVSM2000188;Ipê Dourado Móveis e Decoração Ltda.;Ipê Dourado Móveis;HEADQUARTERS;699669;2611606;ACTIVE
+A0E9BG9H000156;Jatobá Novo Serviços Administrativos Ltda.;Jatobá Novo Serviços;HEADQUARTERS;715096;4106902;ACTIVE
+2V46ZETY000102;Lago Sereno Equipamentos e Suprimentos Ltda.;Lago Sereno Equipamentos;HEADQUARTERS;730523;5208707;ACTIVE
+SC2ED71P000110;Monte Âmbar Tecnologia e Sistemas Ltda.;Monte Âmbar Tech;HEADQUARTERS;745950;5300108;ACTIVE
+DLTRE3JD000184;Nuvem Clara Logística e Transportes S.A.;Nuvem Clara Logística;HEADQUARTERS;761377;3550308;ACTIVE
+CBR18TGJ000171;Orivalle Comércio de Alimentos Ltda.;Orivalle Alimentos;HEADQUARTERS;776804;2304400;ACTIVE
+BXN9KDWB000103;Pedra Serena Engenharia e Projetos Ltda.;Pedra Serena Engenharia;HEADQUARTERS;792231;3304557;ACTIVE
+70Z3KA8E000176;Quintal Verde Consultoria Empresarial Ltda.;Quintal Verde Consultoria;HEADQUARTERS;807658;4205407;ACTIVE
+887N1Y8W000107;Riacho Novo Serviços Educacionais Ltda.;Riacho Novo Educação;HEADQUARTERS;823085;4314902;ACTIVE
+T2W5RZN2000178;Serra Límpida Soluções Ambientais Ltda.;Serra Límpida Ambiental;HEADQUARTERS;838512;1302603;ACTIVE
+E4PKA36X000152;Terravento Comércio de Materiais de Construção Ltda.;Terravento Construção;HEADQUARTERS;853939;2927408;ACTIVE
+GJ9CBLW4000109;Umbraluz Comunicação e Marketing Ltda.;Umbraluz Comunicação;HEADQUARTERS;869366;3106200;ACTIVE
+APLM0MZ0000181;Vale Safira Confecções e Comércio Têxtil Ltda.;Vale Safira Têxtil;HEADQUARTERS;884793;2611606;ACTIVE
+NSEX609H000186;Veredamar Manutenção Industrial Ltda.;Veredamar Industrial;HEADQUARTERS;900220;4106902;ACTIVE
+Z6TYZNAP000193;Ventoclaro Turismo e Eventos Ltda.;Ventoclaro Turismo;HEADQUARTERS;915647;5208707;ACTIVE
+5HTY2AEH000119;Cedro Nobre Móveis e Decoração S.A.;Cedro Nobre Móveis;HEADQUARTERS;931074;5300108;ACTIVE
+T6NXRAWJ000173;Bosque Solar Serviços Administrativos Ltda.;Bosque Solar Serviços;HEADQUARTERS;946501;3550308;ACTIVE
+VWPMZ1M7000108;Pontal Novo Equipamentos e Suprimentos Ltda.;Pontal Novo Equipamentos;HEADQUARTERS;961928;2304400;ACTIVE
+VWPMZ1M7SXTC56;Pontal Novo Equipamentos e Suprimentos Ltda.;Pontal Novo Equipamentos - Recife 01;BRANCH;977355;2611606;ACTIVE
+VWPMZ1M7XJWY51;Pontal Novo Equipamentos e Suprimentos Ltda.;Pontal Novo Equipamentos - Florianópolis 02;BRANCH;992782;4205407;ACTIVE
+E5L9JZP1000155;Rota Dourada Tecnologia e Sistemas Ltda.;Rota Dourada Tech;HEADQUARTERS;108209;3304557;ACTIVE
+GCJXZSZT000105;Sol de Minas Logística e Transportes Ltda.;Sol de Minas Logística;HEADQUARTERS;123636;4205407;ACTIVE
+9RPS9C22000189;Campo Sereno Comércio de Alimentos Ltda.;Campo Sereno Alimentos;HEADQUARTERS;139063;4314902;ACTIVE
+9RPS9C22Y8ET10;Campo Sereno Comércio de Alimentos Ltda.;Campo Sereno Alimentos - Brasília 01;BRANCH;154490;5300108;ACTIVE
+1T5HP5X9000140;Arco Celeste Engenharia e Projetos Ltda.;Arco Celeste Engenharia;HEADQUARTERS;169917;1302603;ACTIVE
+44190075000158;Aurivale Serviços Educacionais Ltda.;Aurivale Educação;HEADQUARTERS;185344;2927408;ACTIVE
+44190075657610;Aurivale Serviços Educacionais Ltda.;Aurivale Educação - Fortaleza 01;BRANCH;200771;2304400;ACTIVE
+44190075018952;Aurivale Serviços Educacionais Ltda.;Aurivale Educação - Recife 02;BRANCH;216198;2611606;ACTIVE
+44190075301000;Aurivale Serviços Educacionais Ltda.;Aurivale Educação - Florianópolis 03;BRANCH;231625;4205407;ACTIVE
+44190075377413;Aurivale Serviços Educacionais Ltda.;Aurivale Educação - Goiânia 04;BRANCH;247052;5208707;ACTIVE
+44190075561184;Aurivale Serviços Educacionais Ltda.;Aurivale Educação - Manaus 05;BRANCH;262479;1302603;ACTIVE
+14391280000110;Brisalto Soluções Ambientais Ltda.;Brisalto Ambiental;HEADQUARTERS;277906;3106200;ACTIVE
+14391280665430;Brisalto Soluções Ambientais Ltda.;Brisalto Ambiental - Rio de Janeiro 01;BRANCH;293333;3304557;ACTIVE
+30647978000100;Cedalume Comércio de Materiais de Construção Ltda.;Cedalume Construção;HEADQUARTERS;308760;2611606;ACTIVE
+44621316000176;Dunaviva Comunicação e Marketing Ltda.;Dunaviva Comunicação;HEADQUARTERS;324187;4106902;ACTIVE
+07479490000108;Estrelume Confecções e Comércio Têxtil S.A.;Estrelume Têxtil;HEADQUARTERS;339614;5208707;ACTIVE
+23403086000107;Floravento Manutenção Industrial Ltda.;Floravento Industrial;HEADQUARTERS;355041;5300108;ACTIVE
+42894104000137;Graniluz Turismo e Eventos Ltda.;Graniluz Turismo;HEADQUARTERS;370468;3550308;ACTIVE
+89706986000123;Horizonte Azul Móveis e Decoração Ltda.;Horizonte Azul Móveis;HEADQUARTERS;385895;2304400;ACTIVE
+44565057000103;Ipê Dourado Serviços Administrativos Ltda.;Ipê Dourado Serviços;HEADQUARTERS;401322;3304557;ACTIVE
+44565057436742;Ipê Dourado Serviços Administrativos Ltda.;Ipê Dourado Serviços - Curitiba 01;BRANCH;416749;4106902;ACTIVE
+47809975000129;Jatobá Novo Equipamentos e Suprimentos Ltda.;Jatobá Novo Equipamentos;HEADQUARTERS;432176;4205407;ACTIVE
+74795300000140;Lago Sereno Tecnologia e Sistemas Ltda.;Lago Sereno Tech;HEADQUARTERS;447603;4314902;ACTIVE
+74795300571644;Lago Sereno Tecnologia e Sistemas Ltda.;Lago Sereno Tech - Brasília 01;BRANCH;463030;5300108;ACTIVE
+36737865000182;Monte Âmbar Logística e Transportes Ltda.;Monte Âmbar Logística;HEADQUARTERS;478457;1302603;ACTIVE
+36737865831777;Monte Âmbar Logística e Transportes Ltda.;Monte Âmbar Logística - São Paulo 01;BRANCH;493884;3550308;ACTIVE
+51978808000189;Nuvem Clara Comércio de Alimentos Ltda.;Nuvem Clara Alimentos;HEADQUARTERS;509311;2927408;ACTIVE
+51978808419384;Nuvem Clara Comércio de Alimentos Ltda.;Nuvem Clara Alimentos - Fortaleza 01;BRANCH;524738;2304400;ACTIVE
+51978808646283;Nuvem Clara Comércio de Alimentos Ltda.;Nuvem Clara Alimentos - Recife 02;BRANCH;540165;2611606;ACTIVE
+51978808921179;Nuvem Clara Comércio de Alimentos Ltda.;Nuvem Clara Alimentos - Florianópolis 03;BRANCH;555592;4205407;ACTIVE
+51978808799608;Nuvem Clara Comércio de Alimentos Ltda.;Nuvem Clara Alimentos - Goiânia 04;BRANCH;571019;5208707;ACTIVE
+32144655000120;Orivalle Engenharia e Projetos Ltda.;Orivalle Engenharia;HEADQUARTERS;586446;3106200;ACTIVE
+84463618000188;Pedra Serena Consultoria Empresarial Ltda.;Pedra Serena Consultoria;HEADQUARTERS;601873;2611606;ACTIVE
+40711202000166;Quintal Verde Serviços Educacionais S.A.;Quintal Verde Educação;HEADQUARTERS;617300;4106902;ACTIVE
+08630913000101;Riacho Novo Soluções Ambientais Ltda.;Riacho Novo Ambiental;HEADQUARTERS;632727;5208707;ACTIVE
+98282386000176;Serra Límpida Comércio de Materiais de Construção Ltda.;Serra Límpida Construção;HEADQUARTERS;648154;5300108;ACTIVE
+51717362000139;Terravento Comunicação e Marketing Ltda.;Terravento Comunicação;HEADQUARTERS;663581;3550308;ACTIVE
+72263940000184;Umbraluz Confecções e Comércio Têxtil Ltda.;Umbraluz Têxtil;HEADQUARTERS;679008;2304400;ACTIVE
+21454996000185;Vale Safira Manutenção Industrial Ltda.;Vale Safira Industrial;HEADQUARTERS;694435;3304557;ACTIVE
+67326243000195;Veredamar Turismo e Eventos Ltda.;Veredamar Turismo;HEADQUARTERS;709862;4205407;ACTIVE
+95272832000173;Ventoclaro Móveis e Decoração Ltda.;Ventoclaro Móveis;HEADQUARTERS;725289;4314902;ACTIVE
+07400842000180;Cedro Nobre Serviços Administrativos Ltda.;Cedro Nobre Serviços;HEADQUARTERS;740716;1302603;ACTIVE
+59238542000140;Bosque Solar Equipamentos e Suprimentos Ltda.;Bosque Solar Equipamentos;HEADQUARTERS;756143;2927408;ACTIVE
+86087166000102;Pontal Novo Tecnologia e Sistemas Ltda.;Pontal Novo Tech;HEADQUARTERS;771570;3106200;ACTIVE
+62821558000195;Rota Dourada Logística e Transportes S.A.;Rota Dourada Logística;HEADQUARTERS;786997;2611606;ACTIVE
+43300900000167;Sol de Minas Comércio de Alimentos Ltda.;Sol de Minas Alimentos;HEADQUARTERS;802424;4106902;ACTIVE
+60561953000150;Campo Sereno Engenharia e Projetos Ltda.;Campo Sereno Engenharia;HEADQUARTERS;817851;5208707;ACTIVE
+24668838000116;Arco Celeste Consultoria Empresarial Ltda.;Arco Celeste Consultoria;HEADQUARTERS;833278;5300108;ACTIVE
+72188215000199;Aurivale Soluções Ambientais Ltda.;Aurivale Ambiental;HEADQUARTERS;848705;3550308;ACTIVE
+41678827000136;Brisalto Comércio de Materiais de Construção Ltda.;Brisalto Construção;HEADQUARTERS;864132;2304400;ACTIVE
+69253405000138;Cedalume Comunicação e Marketing Ltda.;Cedalume Comunicação;HEADQUARTERS;879559;3304557;ACTIVE
+80568957000178;Dunaviva Confecções e Comércio Têxtil Ltda.;Dunaviva Têxtil;HEADQUARTERS;894986;4205407;ACTIVE
+00591869000158;Estrelume Manutenção Industrial Ltda.;Estrelume Industrial;HEADQUARTERS;910413;4314902;ACTIVE
+70409454000104;Floravento Turismo e Eventos Ltda.;Floravento Turismo;HEADQUARTERS;925840;1302603;ACTIVE
+55875677000165;Graniluz Móveis e Decoração Ltda.;Graniluz Móveis;HEADQUARTERS;941267;2927408;ACTIVE
+65347932000150;Horizonte Azul Serviços Administrativos S.A.;Horizonte Azul Serviços;HEADQUARTERS;956694;3106200;ACTIVE
+65278514000159;Ipê Dourado Equipamentos e Suprimentos Ltda.;Ipê Dourado Equipamentos;HEADQUARTERS;972121;2611606;ACTIVE
+96934002000127;Jatobá Novo Tecnologia e Sistemas Ltda.;Jatobá Novo Tech;HEADQUARTERS;987548;4106902;ACTIVE
+05415612000169;Lago Sereno Logística e Transportes Ltda.;Lago Sereno Logística;HEADQUARTERS;102975;5208707;ACTIVE
+89511752000120;Monte Âmbar Comércio de Alimentos Ltda.;Monte Âmbar Alimentos;HEADQUARTERS;118402;5300108;ACTIVE
+64787078000180;Nuvem Clara Engenharia e Projetos Ltda.;Nuvem Clara Engenharia;HEADQUARTERS;133829;3550308;ACTIVE
+66010834000196;Orivalle Consultoria Empresarial Ltda.;Orivalle Consultoria;HEADQUARTERS;149256;2304400;ACTIVE
+30414030000105;Pedra Serena Serviços Educacionais Ltda.;Pedra Serena Educação;HEADQUARTERS;164683;3304557;ACTIVE
+25898605000172;Quintal Verde Soluções Ambientais Ltda.;Quintal Verde Ambiental;HEADQUARTERS;180110;4205407;ACTIVE
+37497534000185;Riacho Novo Comércio de Materiais de Construção Ltda.;Riacho Novo Construção;HEADQUARTERS;195537;4314902;ACTIVE
+06997619000107;Serra Límpida Comunicação e Marketing Ltda.;Serra Límpida Comunicação;HEADQUARTERS;210964;1302603;ACTIVE
+31236609000198;Terravento Confecções e Comércio Têxtil S.A.;Terravento Têxtil;HEADQUARTERS;226391;2927408;ACTIVE
+25786031000140;Umbraluz Manutenção Industrial Ltda.;Umbraluz Industrial;HEADQUARTERS;241818;3106200;ACTIVE
+86495517000114;Vale Safira Turismo e Eventos Ltda.;Vale Safira Turismo;HEADQUARTERS;257245;2611606;ACTIVE
+11440093000191;Veredamar Móveis e Decoração Ltda.;Veredamar Móveis;HEADQUARTERS;272672;4106902;ACTIVE
+68471098000107;Ventoclaro Serviços Administrativos Ltda.;Ventoclaro Serviços;HEADQUARTERS;288099;5208707;ACTIVE
+33197034000177;Cedro Nobre Equipamentos e Suprimentos Ltda.;Cedro Nobre Equipamentos;HEADQUARTERS;303526;5300108;ACTIVE
+39352728000118;Bosque Solar Tecnologia e Sistemas Ltda.;Bosque Solar Tech;HEADQUARTERS;318953;3550308;ACTIVE
+39352728368654;Bosque Solar Tecnologia e Sistemas Ltda.;Bosque Solar Tech - Belo Horizonte 01;BRANCH;334380;3106200;ACTIVE
+39352728275990;Bosque Solar Tecnologia e Sistemas Ltda.;Bosque Solar Tech - Rio de Janeiro 02;BRANCH;349807;3304557;ACTIVE
+46838369000179;Pontal Novo Logística e Transportes Ltda.;Pontal Novo Logística;HEADQUARTERS;365234;2304400;ACTIVE
+79823522000143;Rota Dourada Comércio de Alimentos Ltda.;Rota Dourada Alimentos;HEADQUARTERS;380661;3304557;ACTIVE
+95623882000158;Sol de Minas Engenharia e Projetos Ltda.;Sol de Minas Engenharia;HEADQUARTERS;396088;4205407;ACTIVE
+08451148000154;Campo Sereno Consultoria Empresarial Ltda.;Campo Sereno Consultoria;HEADQUARTERS;411515;4314902;ACTIVE
+08451148908393;Campo Sereno Consultoria Empresarial Ltda.;Campo Sereno Consultoria - Brasília 01;BRANCH;426942;5300108;ACTIVE
+08451148093063;Campo Sereno Consultoria Empresarial Ltda.;Campo Sereno Consultoria - Salvador 02;BRANCH;442369;2927408;ACTIVE
+08451148049838;Campo Sereno Consultoria Empresarial Ltda.;Campo Sereno Consultoria - Fortaleza 03;BRANCH;457796;2304400;ACTIVE
+46501779000120;Arco Celeste Serviços Educacionais S.A.;Arco Celeste Educação;HEADQUARTERS;473223;1302603;ACTIVE
+81148563000123;Aurivale Comércio de Materiais de Construção Ltda.;Aurivale Construção;HEADQUARTERS;488650;2927408;ACTIVE
+25713928000144;Brisalto Comunicação e Marketing Ltda.;Brisalto Comunicação;HEADQUARTERS;504077;3106200;ACTIVE
+75696797000102;Cedalume Confecções e Comércio Têxtil Ltda.;Cedalume Têxtil;HEADQUARTERS;519504;2611606;ACTIVE
+65707438000150;Dunaviva Manutenção Industrial Ltda.;Dunaviva Industrial;HEADQUARTERS;534931;4106902;ACTIVE
+91537836000185;Estrelume Turismo e Eventos Ltda.;Estrelume Turismo;HEADQUARTERS;550358;5208707;ACTIVE
+90617220000151;Floravento Móveis e Decoração Ltda.;Floravento Móveis;HEADQUARTERS;565785;5300108;ACTIVE
+12543409000133;Graniluz Serviços Administrativos Ltda.;Graniluz Serviços;HEADQUARTERS;581212;3550308;ACTIVE
+63965637000132;Horizonte Azul Equipamentos e Suprimentos Ltda.;Horizonte Azul Equipamentos;HEADQUARTERS;596639;2304400;ACTIVE
+86848060000184;Ipê Dourado Tecnologia e Sistemas Ltda.;Ipê Dourado Tech;HEADQUARTERS;612066;3304557;ACTIVE
+55012656000116;Jatobá Novo Logística e Transportes Ltda.;Jatobá Novo Logística;HEADQUARTERS;627493;4205407;ACTIVE
+75392178000124;Lago Sereno Comércio de Alimentos S.A.;Lago Sereno Alimentos;HEADQUARTERS;642920;4314902;ACTIVE
+35076712000179;Monte Âmbar Engenharia e Projetos Ltda.;Monte Âmbar Engenharia;HEADQUARTERS;658347;1302603;ACTIVE
+86963255000175;Nuvem Clara Consultoria Empresarial Ltda.;Nuvem Clara Consultoria;HEADQUARTERS;673774;2927408;ACTIVE
+53784344000103;Orivalle Serviços Educacionais Ltda.;Orivalle Educação;HEADQUARTERS;689201;3106200;ACTIVE
+83424337000153;Pedra Serena Soluções Ambientais Ltda.;Pedra Serena Ambiental;HEADQUARTERS;704628;2611606;ACTIVE
+00662824000127;Quintal Verde Comércio de Materiais de Construção Ltda.;Quintal Verde Construção;HEADQUARTERS;720055;4106902;ACTIVE
+18077011000135;Riacho Novo Comunicação e Marketing Ltda.;Riacho Novo Comunicação;HEADQUARTERS;735482;5208707;ACTIVE
+98256064000152;Serra Límpida Confecções e Comércio Têxtil Ltda.;Serra Límpida Têxtil;HEADQUARTERS;750909;5300108;ACTIVE
+10986764000151;Terravento Manutenção Industrial Ltda.;Terravento Industrial;HEADQUARTERS;766336;3550308;ACTIVE
+61429545000102;Umbraluz Turismo e Eventos Ltda.;Umbraluz Turismo;HEADQUARTERS;781763;2304400;ACTIVE
+40259855000156;Vale Safira Móveis e Decoração Ltda.;Vale Safira Móveis;HEADQUARTERS;797190;3304557;ACTIVE
+00714367000177;Veredamar Serviços Administrativos S.A.;Veredamar Serviços;HEADQUARTERS;812617;4205407;ACTIVE
+31677055000164;Ventoclaro Equipamentos e Suprimentos Ltda.;Ventoclaro Equipamentos;HEADQUARTERS;828044;4314902;ACTIVE
+34988372000190;Cedro Nobre Tecnologia e Sistemas Ltda.;Cedro Nobre Tech;HEADQUARTERS;843471;1302603;ACTIVE
+67475883000167;Bosque Solar Logística e Transportes Ltda.;Bosque Solar Logística;HEADQUARTERS;858898;2927408;ACTIVE
+93316696000140;Pontal Novo Comércio de Alimentos Ltda.;Pontal Novo Alimentos;HEADQUARTERS;874325;3106200;ACTIVE
+54506122000183;Rota Dourada Engenharia e Projetos Ltda.;Rota Dourada Engenharia;HEADQUARTERS;889752;2611606;ACTIVE
+69743098000173;Sol de Minas Consultoria Empresarial Ltda.;Sol de Minas Consultoria;HEADQUARTERS;905179;4106902;ACTIVE
+82012520000189;Campo Sereno Serviços Educacionais Ltda.;Campo Sereno Educação;HEADQUARTERS;920606;5208707;ACTIVE
+19651333000109;Arco Celeste Soluções Ambientais Ltda.;Arco Celeste Ambiental;HEADQUARTERS;936033;5300108;ACTIVE
+06787546000110;Aurivale Comunicação e Marketing Ltda.;Aurivale Comunicação;HEADQUARTERS;951460;3550308;ACTIVE
+35066521000126;Brisalto Confecções e Comércio Têxtil Ltda.;Brisalto Têxtil;HEADQUARTERS;966887;2304400;ACTIVE
+01998889000100;Cedalume Manutenção Industrial S.A.;Cedalume Industrial;HEADQUARTERS;982314;3304557;ACTIVE
+44904316000183;Dunaviva Turismo e Eventos Ltda.;Dunaviva Turismo;HEADQUARTERS;997741;4205407;ACTIVE
+88686706000108;Estrelume Móveis e Decoração Ltda.;Estrelume Móveis;HEADQUARTERS;113168;4314902;ACTIVE
+88686706859290;Estrelume Móveis e Decoração Ltda.;Estrelume Móveis - Brasília 01;BRANCH;128595;5300108;ACTIVE
+88686706077402;Estrelume Móveis e Decoração Ltda.;Estrelume Móveis - Salvador 02;BRANCH;144022;2927408;ACTIVE
+88686706930695;Estrelume Móveis e Decoração Ltda.;Estrelume Móveis - Fortaleza 03;BRANCH;159449;2304400;ACTIVE
+88686706228460;Estrelume Móveis e Decoração Ltda.;Estrelume Móveis - Recife 04;BRANCH;174876;2611606;ACTIVE
+67721363000197;Floravento Serviços Administrativos Ltda.;Floravento Serviços;HEADQUARTERS;190303;1302603;ACTIVE
+91783491000140;Graniluz Equipamentos e Suprimentos Ltda.;Graniluz Equipamentos;HEADQUARTERS;205730;2927408;ACTIVE
+02244114000102;Horizonte Azul Tecnologia e Sistemas Ltda.;Horizonte Azul Tech;HEADQUARTERS;221157;3106200;ACTIVE
+78138056000102;Ipê Dourado Logística e Transportes Ltda.;Ipê Dourado Logística;HEADQUARTERS;236584;2611606;ACTIVE
+94130224000161;Jatobá Novo Comércio de Alimentos Ltda.;Jatobá Novo Alimentos;HEADQUARTERS;252011;4106902;ACTIVE
+47473429000160;Lago Sereno Engenharia e Projetos Ltda.;Lago Sereno Engenharia;HEADQUARTERS;267438;5208707;ACTIVE
+96154458000174;Monte Âmbar Consultoria Empresarial Ltda.;Monte Âmbar Consultoria;HEADQUARTERS;282865;5300108;ACTIVE
+90910939000186;Nuvem Clara Serviços Educacionais Ltda.;Nuvem Clara Educação;HEADQUARTERS;298292;3550308;ACTIVE
+72658145000195;Orivalle Soluções Ambientais S.A.;Orivalle Ambiental;HEADQUARTERS;313719;2304400;ACTIVE
+70859348000114;Pedra Serena Comércio de Materiais de Construção Ltda.;Pedra Serena Construção;HEADQUARTERS;329146;3304557;ACTIVE
+23734072000168;Quintal Verde Comunicação e Marketing Ltda.;Quintal Verde Comunicação;HEADQUARTERS;344573;4205407;ACTIVE
+11345897000101;Riacho Novo Confecções e Comércio Têxtil Ltda.;Riacho Novo Têxtil;HEADQUARTERS;360000;4314902;ACTIVE
+46498197000131;Serra Límpida Manutenção Industrial Ltda.;Serra Límpida Industrial;HEADQUARTERS;375427;1302603;ACTIVE
+72039761000168;Terravento Turismo e Eventos Ltda.;Terravento Turismo;HEADQUARTERS;390854;2927408;ACTIVE
+50345917000104;Umbraluz Móveis e Decoração Ltda.;Umbraluz Móveis;HEADQUARTERS;406281;3106200;ACTIVE
+93788821000115;Vale Safira Serviços Administrativos Ltda.;Vale Safira Serviços;HEADQUARTERS;421708;2611606;ACTIVE
+05831981000132;Veredamar Equipamentos e Suprimentos Ltda.;Veredamar Equipamentos;HEADQUARTERS;437135;4106902;ACTIVE
+23843133000125;Ventoclaro Tecnologia e Sistemas Ltda.;Ventoclaro Tech;HEADQUARTERS;452562;5208707;ACTIVE
+93816321000140;Cedro Nobre Logística e Transportes Ltda.;Cedro Nobre Logística;HEADQUARTERS;467989;5300108;ACTIVE
+68882517000195;Bosque Solar Comércio de Alimentos S.A.;Bosque Solar Alimentos;HEADQUARTERS;483416;3550308;ACTIVE
+00911328000160;Pontal Novo Engenharia e Projetos Ltda.;Pontal Novo Engenharia;HEADQUARTERS;498843;2304400;ACTIVE
+27636776000159;Rota Dourada Consultoria Empresarial Ltda.;Rota Dourada Consultoria;HEADQUARTERS;514270;3304557;ACTIVE
+02891935000130;Sol de Minas Serviços Educacionais Ltda.;Sol de Minas Educação;HEADQUARTERS;529697;4205407;ACTIVE
+83616779000100;Campo Sereno Soluções Ambientais Ltda.;Campo Sereno Ambiental;HEADQUARTERS;545124;4314902;ACTIVE
+53621612000168;Arco Celeste Comércio de Materiais de Construção Ltda.;Arco Celeste Construção;HEADQUARTERS;560551;1302603;ACTIVE
+78822777000129;Aurivale Confecções e Comércio Têxtil Ltda.;Aurivale Têxtil;HEADQUARTERS;575978;2927408;ACTIVE
+55513821000113;Brisalto Manutenção Industrial Ltda.;Brisalto Industrial;HEADQUARTERS;591405;3106200;ACTIVE
+91923925000160;Cedalume Turismo e Eventos Ltda.;Cedalume Turismo;HEADQUARTERS;606832;2611606;ACTIVE
+03064705000160;Dunaviva Móveis e Decoração Ltda.;Dunaviva Móveis;HEADQUARTERS;622259;4106902;ACTIVE
+49629596000182;Estrelume Serviços Administrativos Ltda.;Estrelume Serviços;HEADQUARTERS;637686;5208707;ACTIVE
+92157353000118;Floravento Equipamentos e Suprimentos S.A.;Floravento Equipamentos;HEADQUARTERS;653113;5300108;ACTIVE
+57621940000115;Graniluz Tecnologia e Sistemas Ltda.;Graniluz Tech;HEADQUARTERS;668540;3550308;ACTIVE
+45498641000156;Horizonte Azul Logística e Transportes Ltda.;Horizonte Azul Logística;HEADQUARTERS;683967;2304400;ACTIVE
+10637181000115;Ipê Dourado Comércio de Alimentos Ltda.;Ipê Dourado Alimentos;HEADQUARTERS;699394;3304557;ACTIVE
+67103214000164;Jatobá Novo Engenharia e Projetos Ltda.;Jatobá Novo Engenharia;HEADQUARTERS;714821;4205407;ACTIVE
+95786136000185;Lago Sereno Consultoria Empresarial Ltda.;Lago Sereno Consultoria;HEADQUARTERS;730248;4314902;ACTIVE
+53878295000160;Monte Âmbar Serviços Educacionais Ltda.;Monte Âmbar Educação;HEADQUARTERS;745675;1302603;ACTIVE
+18155116000165;Nuvem Clara Soluções Ambientais Ltda.;Nuvem Clara Ambiental;HEADQUARTERS;761102;2927408;ACTIVE
+02526617000170;Orivalle Comércio de Materiais de Construção Ltda.;Orivalle Construção;HEADQUARTERS;776529;3106200;ACTIVE
+33086454000186;Pedra Serena Comunicação e Marketing Ltda.;Pedra Serena Comunicação;HEADQUARTERS;791956;2611606;ACTIVE
+65957324000168;Quintal Verde Confecções e Comércio Têxtil Ltda.;Quintal Verde Têxtil;HEADQUARTERS;807383;4106902;ACTIVE
+76809857000119;Riacho Novo Manutenção Industrial S.A.;Riacho Novo Industrial;HEADQUARTERS;822810;5208707;ACTIVE
+62270043000144;Serra Límpida Turismo e Eventos Ltda.;Serra Límpida Turismo;HEADQUARTERS;838237;5300108;ACTIVE
+68488103000186;Terravento Móveis e Decoração Ltda.;Terravento Móveis;HEADQUARTERS;853664;3550308;ACTIVE
+08764031000120;Umbraluz Serviços Administrativos Ltda.;Umbraluz Serviços;HEADQUARTERS;869091;2304400;ACTIVE
+57915683000124;Vale Safira Equipamentos e Suprimentos Ltda.;Vale Safira Equipamentos;HEADQUARTERS;884518;3304557;ACTIVE
+48930342000137;Veredamar Tecnologia e Sistemas Ltda.;Veredamar Tech;HEADQUARTERS;899945;4205407;ACTIVE
+82438627000193;Ventoclaro Logística e Transportes Ltda.;Ventoclaro Logística;HEADQUARTERS;915372;4314902;ACTIVE
+82386935000112;Cedro Nobre Comércio de Alimentos Ltda.;Cedro Nobre Alimentos;HEADQUARTERS;930799;1302603;ACTIVE
+82766605000152;Bosque Solar Engenharia e Projetos Ltda.;Bosque Solar Engenharia;HEADQUARTERS;946226;2927408;ACTIVE
+36968833000198;Pontal Novo Consultoria Empresarial Ltda.;Pontal Novo Consultoria;HEADQUARTERS;961653;3106200;ACTIVE
+15153221000177;Rota Dourada Serviços Educacionais Ltda.;Rota Dourada Educação;HEADQUARTERS;977080;2611606;ACTIVE
+58742412000187;Sol de Minas Soluções Ambientais S.A.;Sol de Minas Ambiental;HEADQUARTERS;992507;4106902;ACTIVE
+26981077000183;Campo Sereno Comércio de Materiais de Construção Ltda.;Campo Sereno Construção;HEADQUARTERS;107934;5208707;ACTIVE
+00807718000194;Arco Celeste Comunicação e Marketing Ltda.;Arco Celeste Comunicação;HEADQUARTERS;123361;5300108;ACTIVE
+95761998000153;Aurivale Manutenção Industrial Ltda.;Aurivale Industrial;HEADQUARTERS;138788;3550308;ACTIVE
+32335518000172;Brisalto Turismo e Eventos Ltda.;Brisalto Turismo;HEADQUARTERS;154215;2304400;ACTIVE
+97954758000109;Cedalume Móveis e Decoração Ltda.;Cedalume Móveis;HEADQUARTERS;169642;3304557;ACTIVE
+77799342000148;Dunaviva Serviços Administrativos Ltda.;Dunaviva Serviços;HEADQUARTERS;185069;4205407;ACTIVE
+56748046000148;Estrelume Equipamentos e Suprimentos Ltda.;Estrelume Equipamentos;HEADQUARTERS;200496;4314902;ACTIVE
+82074835000150;Floravento Tecnologia e Sistemas Ltda.;Floravento Tech;HEADQUARTERS;215923;1302603;ACTIVE
+00154667000149;Graniluz Logística e Transportes Ltda.;Graniluz Logística;HEADQUARTERS;231350;2927408;ACTIVE
+51154646000164;Horizonte Azul Comércio de Alimentos Ltda.;Horizonte Azul Alimentos;HEADQUARTERS;246777;3106200;ACTIVE
+80420791000148;Ipê Dourado Engenharia e Projetos S.A.;Ipê Dourado Engenharia;HEADQUARTERS;262204;2611606;ACTIVE
+39004369000108;Jatobá Novo Consultoria Empresarial Ltda.;Jatobá Novo Consultoria;HEADQUARTERS;277631;4106902;ACTIVE
+05257753000109;Lago Sereno Serviços Educacionais Ltda.;Lago Sereno Educação;HEADQUARTERS;293058;5208707;ACTIVE
+14770242000179;Monte Âmbar Soluções Ambientais Ltda.;Monte Âmbar Ambiental;HEADQUARTERS;308485;5300108;ACTIVE
+70764374000169;Nuvem Clara Comércio de Materiais de Construção Ltda.;Nuvem Clara Construção;HEADQUARTERS;323912;3550308;ACTIVE
+39571922000194;Orivalle Comunicação e Marketing Ltda.;Orivalle Comunicação;HEADQUARTERS;339339;2304400;ACTIVE
+89235835000134;Pedra Serena Confecções e Comércio Têxtil Ltda.;Pedra Serena Têxtil;HEADQUARTERS;354766;3304557;ACTIVE
+40277682000107;Quintal Verde Manutenção Industrial Ltda.;Quintal Verde Industrial;HEADQUARTERS;370193;4205407;ACTIVE
+21944346000118;Riacho Novo Turismo e Eventos Ltda.;Riacho Novo Turismo;HEADQUARTERS;385620;4314902;ACTIVE
+38201750000102;Serra Límpida Móveis e Decoração Ltda.;Serra Límpida Móveis;HEADQUARTERS;401047;1302603;ACTIVE
+18462060000191;Terravento Serviços Administrativos Ltda.;Terravento Serviços;HEADQUARTERS;416474;2927408;ACTIVE
+52120570000119;Umbraluz Equipamentos e Suprimentos S.A.;Umbraluz Equipamentos;HEADQUARTERS;431901;3106200;ACTIVE
+71172957000163;Vale Safira Tecnologia e Sistemas Ltda.;Vale Safira Tech;HEADQUARTERS;447328;2611606;ACTIVE
+92334327000118;Veredamar Logística e Transportes Ltda.;Veredamar Logística;HEADQUARTERS;462755;4106902;ACTIVE
+93982757000109;Ventoclaro Comércio de Alimentos Ltda.;Ventoclaro Alimentos;HEADQUARTERS;478182;5208707;ACTIVE
+37047910000130;Cedro Nobre Engenharia e Projetos Ltda.;Cedro Nobre Engenharia;HEADQUARTERS;493609;5300108;ACTIVE
+20681712000120;Bosque Solar Consultoria Empresarial Ltda.;Bosque Solar Consultoria;HEADQUARTERS;509036;3550308;ACTIVE
+34914731000164;Pontal Novo Serviços Educacionais Ltda.;Pontal Novo Educação;HEADQUARTERS;524463;2304400;ACTIVE
+93122883000193;Rota Dourada Soluções Ambientais Ltda.;Rota Dourada Ambiental;HEADQUARTERS;539890;3304557;ACTIVE
+18551284000170;Sol de Minas Comércio de Materiais de Construção Ltda.;Sol de Minas Construção;HEADQUARTERS;555317;4205407;ACTIVE
+15811524000130;Campo Sereno Comunicação e Marketing Ltda.;Campo Sereno Comunicação;HEADQUARTERS;570744;4314902;ACTIVE
+08448646000148;Arco Celeste Confecções e Comércio Têxtil Ltda.;Arco Celeste Têxtil;HEADQUARTERS;586171;1302603;ACTIVE
+54870324000100;Aurivale Turismo e Eventos S.A.;Aurivale Turismo;HEADQUARTERS;601598;2927408;ACTIVE
+96792794000142;Brisalto Móveis e Decoração Ltda.;Brisalto Móveis;HEADQUARTERS;617025;3106200;ACTIVE
+45878965000110;Cedalume Serviços Administrativos Ltda.;Cedalume Serviços;HEADQUARTERS;632452;2611606;ACTIVE
+85787672000141;Dunaviva Equipamentos e Suprimentos Ltda.;Dunaviva Equipamentos;HEADQUARTERS;647879;4106902;ACTIVE
+09200422000185;Estrelume Tecnologia e Sistemas Ltda.;Estrelume Tech;HEADQUARTERS;663306;5208707;ACTIVE
+72404360000160;Floravento Logística e Transportes Ltda.;Floravento Logística;HEADQUARTERS;678733;5300108;ACTIVE
+00781653000155;Graniluz Comércio de Alimentos Ltda.;Graniluz Alimentos;HEADQUARTERS;694160;3550308;ACTIVE
+70899472000103;Horizonte Azul Engenharia e Projetos Ltda.;Horizonte Azul Engenharia;HEADQUARTERS;709587;2304400;ACTIVE
+02738203000105;Ipê Dourado Consultoria Empresarial Ltda.;Ipê Dourado Consultoria;HEADQUARTERS;725014;3304557;ACTIVE
+98425120000135;Jatobá Novo Serviços Educacionais Ltda.;Jatobá Novo Educação;HEADQUARTERS;740441;4205407;ACTIVE
+93565986000128;Lago Sereno Soluções Ambientais Ltda.;Lago Sereno Ambiental;HEADQUARTERS;755868;4314902;ACTIVE
+61284103000115;Monte Âmbar Comércio de Materiais de Construção S.A.;Monte Âmbar Construção;HEADQUARTERS;771295;1302603;ACTIVE
+18923548000179;Nuvem Clara Comunicação e Marketing Ltda.;Nuvem Clara Comunicação;HEADQUARTERS;786722;2927408;ACTIVE
+71846646000132;Orivalle Confecções e Comércio Têxtil Ltda.;Orivalle Têxtil;HEADQUARTERS;802149;3106200;ACTIVE
+10525786000114;Pedra Serena Manutenção Industrial Ltda.;Pedra Serena Industrial;HEADQUARTERS;817576;2611606;ACTIVE
+10525786463645;Pedra Serena Manutenção Industrial Ltda.;Pedra Serena Industrial - Florianópolis 01;BRANCH;833003;4205407;ACTIVE
+10525786839793;Pedra Serena Manutenção Industrial Ltda.;Pedra Serena Industrial - Goiânia 02;BRANCH;848430;5208707;ACTIVE
+10525786284554;Pedra Serena Manutenção Industrial Ltda.;Pedra Serena Industrial - Manaus 03;BRANCH;863857;1302603;ACTIVE
+10525786981514;Pedra Serena Manutenção Industrial Ltda.;Pedra Serena Industrial - São Paulo 04;BRANCH;879284;3550308;ACTIVE
+15355334000155;Quintal Verde Turismo e Eventos Ltda.;Quintal Verde Turismo;HEADQUARTERS;894711;4106902;ACTIVE
+26671617000122;Riacho Novo Móveis e Decoração Ltda.;Riacho Novo Móveis;HEADQUARTERS;910138;5208707;ACTIVE
+40262014000106;Serra Límpida Serviços Administrativos Ltda.;Serra Límpida Serviços;HEADQUARTERS;925565;5300108;ACTIVE
+61796202000186;Terravento Equipamentos e Suprimentos Ltda.;Terravento Equipamentos;HEADQUARTERS;940992;3550308;ACTIVE
+61796202758755;Terravento Equipamentos e Suprimentos Ltda.;Terravento Equipamentos - Belo Horizonte 01;BRANCH;956419;3106200;ACTIVE
+99213304000102;Umbraluz Tecnologia e Sistemas Ltda.;Umbraluz Tech;HEADQUARTERS;971846;2304400;ACTIVE
+9CREK75B000163;Vale Safira Logística e Transportes Ltda.;Vale Safira Logística;HEADQUARTERS;987273;3304557;ACTIVE
+EPVXVJH5000102;Veredamar Comércio de Alimentos Ltda.;Veredamar Alimentos;HEADQUARTERS;102700;4205407;ACTIVE
+X3KTK0G4000183;Ventoclaro Engenharia e Projetos S.A.;Ventoclaro Engenharia;HEADQUARTERS;118127;4314902;ACTIVE
+JMM38J5R000194;Cedro Nobre Consultoria Empresarial Ltda.;Cedro Nobre Consultoria;HEADQUARTERS;133554;1302603;ACTIVE
+PMY9VRD1000192;Bosque Solar Serviços Educacionais Ltda.;Bosque Solar Educação;HEADQUARTERS;148981;2927408;ACTIVE
+CXLK6LBB000160;Pontal Novo Soluções Ambientais Ltda.;Pontal Novo Ambiental;HEADQUARTERS;164408;3106200;ACTIVE
+E743AJE7000116;Rota Dourada Comércio de Materiais de Construção Ltda.;Rota Dourada Construção;HEADQUARTERS;179835;2611606;ACTIVE
+9P0GSP1X000162;Sol de Minas Comunicação e Marketing Ltda.;Sol de Minas Comunicação;HEADQUARTERS;195262;4106902;ACTIVE
+GT6HG44J000196;Campo Sereno Confecções e Comércio Têxtil Ltda.;Campo Sereno Têxtil;HEADQUARTERS;210689;5208707;ACTIVE
+2V3TD8Y9000167;Arco Celeste Manutenção Industrial Ltda.;Arco Celeste Industrial;HEADQUARTERS;226116;5300108;ACTIVE
+RER6RLRM000180;Aurivale Móveis e Decoração Ltda.;Aurivale Móveis;HEADQUARTERS;241543;3550308;ACTIVE
+RER6RLRMCS2600;Aurivale Móveis e Decoração Ltda.;Aurivale Móveis - Belo Horizonte 01;BRANCH;256970;3106200;ACTIVE
+RER6RLRM7E3380;Aurivale Móveis e Decoração Ltda.;Aurivale Móveis - Rio de Janeiro 02;BRANCH;272397;3304557;ACTIVE
+BL06GALZ000155;Brisalto Serviços Administrativos Ltda.;Brisalto Serviços;HEADQUARTERS;287824;2304400;ACTIVE
+48GTTL1M000101;Cedalume Equipamentos e Suprimentos Ltda.;Cedalume Equipamentos;HEADQUARTERS;303251;3304557;ACTIVE
+W7XYC9DP000109;Dunaviva Tecnologia e Sistemas S.A.;Dunaviva Tech;HEADQUARTERS;318678;4205407;ACTIVE
+6YWML9B8000101;Estrelume Logística e Transportes Ltda.;Estrelume Logística;HEADQUARTERS;334105;4314902;ACTIVE
+JZA2225K000185;Floravento Comércio de Alimentos Ltda.;Floravento Alimentos;HEADQUARTERS;349532;1302603;ACTIVE
+M0Z9GMSX000163;Graniluz Engenharia e Projetos Ltda.;Graniluz Engenharia;HEADQUARTERS;364959;2927408;ACTIVE
+KHJZ0YGG000111;Horizonte Azul Consultoria Empresarial Ltda.;Horizonte Azul Consultoria;HEADQUARTERS;380386;3106200;ACTIVE
+465KYJRA000120;Ipê Dourado Serviços Educacionais Ltda.;Ipê Dourado Educação;HEADQUARTERS;395813;2611606;ACTIVE
+465KYJRA7ES430;Ipê Dourado Serviços Educacionais Ltda.;Ipê Dourado Educação - Florianópolis 01;BRANCH;411240;4205407;ACTIVE
+465KYJRADZDB30;Ipê Dourado Serviços Educacionais Ltda.;Ipê Dourado Educação - Goiânia 02;BRANCH;426667;5208707;ACTIVE
+465KYJRA5V6W68;Ipê Dourado Serviços Educacionais Ltda.;Ipê Dourado Educação - Manaus 03;BRANCH;442094;1302603;ACTIVE
+7PSX45N9000139;Jatobá Novo Soluções Ambientais Ltda.;Jatobá Novo Ambiental;HEADQUARTERS;457521;4106902;ACTIVE
+SVR68VRK000126;Lago Sereno Comércio de Materiais de Construção Ltda.;Lago Sereno Construção;HEADQUARTERS;472948;5208707;ACTIVE
+TDVNLS8S000196;Monte Âmbar Comunicação e Marketing Ltda.;Monte Âmbar Comunicação;HEADQUARTERS;488375;5300108;ACTIVE
+TDNWEDT4000114;Nuvem Clara Confecções e Comércio Têxtil Ltda.;Nuvem Clara Têxtil;HEADQUARTERS;503802;3550308;ACTIVE
+TYT4HPGN000118;Orivalle Manutenção Industrial Ltda.;Orivalle Industrial;HEADQUARTERS;519229;2304400;ACTIVE
+47NJZB7B000199;Pedra Serena Turismo e Eventos S.A.;Pedra Serena Turismo;HEADQUARTERS;534656;3304557;ACTIVE
+6GLN76AV000100;Quintal Verde Móveis e Decoração Ltda.;Quintal Verde Móveis;HEADQUARTERS;550083;4205407;ACTIVE
+PV929A4Z000151;Riacho Novo Serviços Administrativos Ltda.;Riacho Novo Serviços;HEADQUARTERS;565510;4314902;ACTIVE
+PV929A4ZP8E480;Riacho Novo Serviços Administrativos Ltda.;Riacho Novo Serviços - Brasília 01;BRANCH;580937;5300108;ACTIVE
+PV929A4ZWR5D62;Riacho Novo Serviços Administrativos Ltda.;Riacho Novo Serviços - Salvador 02;BRANCH;596364;2927408;ACTIVE
+PV929A4Z73TD06;Riacho Novo Serviços Administrativos Ltda.;Riacho Novo Serviços - Fortaleza 03;BRANCH;611791;2304400;ACTIVE
+PV929A4ZYYVR61;Riacho Novo Serviços Administrativos Ltda.;Riacho Novo Serviços - Recife 04;BRANCH;627218;2611606;ACTIVE
+PV929A4Z768955;Riacho Novo Serviços Administrativos Ltda.;Riacho Novo Serviços - Florianópolis 05;BRANCH;642645;4205407;ACTIVE
+3ZJWWK2S000119;Serra Límpida Equipamentos e Suprimentos Ltda.;Serra Límpida Equipamentos;HEADQUARTERS;658072;1302603;ACTIVE
+Y0X5LTC6000103;Terravento Tecnologia e Sistemas Ltda.;Terravento Tech;HEADQUARTERS;673499;2927408;ACTIVE
+HMABX2VV000140;Umbraluz Logística e Transportes Ltda.;Umbraluz Logística;HEADQUARTERS;688926;3106200;ACTIVE
+HMABX2VVRECG15;Umbraluz Logística e Transportes Ltda.;Umbraluz Logística - Rio de Janeiro 01;BRANCH;704353;3304557;ACTIVE
+HMABX2VVNJSL98;Umbraluz Logística e Transportes Ltda.;Umbraluz Logística - Curitiba 02;BRANCH;719780;4106902;ACTIVE
+HMABX2VVZS4W60;Umbraluz Logística e Transportes Ltda.;Umbraluz Logística - Porto Alegre 03;BRANCH;735207;4314902;ACTIVE
+BDP22L1E000120;Vale Safira Comércio de Alimentos Ltda.;Vale Safira Alimentos;HEADQUARTERS;750634;2611606;ACTIVE
+HK8S7Y6E000180;Veredamar Engenharia e Projetos Ltda.;Veredamar Engenharia;HEADQUARTERS;766061;4106902;ACTIVE
+G927LNG8000160;Ventoclaro Consultoria Empresarial Ltda.;Ventoclaro Consultoria;HEADQUARTERS;781488;5208707;ACTIVE
+TVPGHN51000167;Cedro Nobre Serviços Educacionais Ltda.;Cedro Nobre Educação;HEADQUARTERS;796915;5300108;ACTIVE
+416R72YX000180;Bosque Solar Soluções Ambientais Ltda.;Bosque Solar Ambiental;HEADQUARTERS;812342;3550308;ACTIVE
+7YWJ0HC6000167;Pontal Novo Comércio de Materiais de Construção S.A.;Pontal Novo Construção;HEADQUARTERS;827769;2304400;ACTIVE
+2DYVCPR6000195;Rota Dourada Comunicação e Marketing Ltda.;Rota Dourada Comunicação;HEADQUARTERS;843196;3304557;ACTIVE
+TAYMKW8S000123;Sol de Minas Confecções e Comércio Têxtil Ltda.;Sol de Minas Têxtil;HEADQUARTERS;858623;4205407;ACTIVE
+B27WY34S000167;Campo Sereno Manutenção Industrial Ltda.;Campo Sereno Industrial;HEADQUARTERS;874050;4314902;ACTIVE
+XWTGX8T6000186;Arco Celeste Turismo e Eventos Ltda.;Arco Celeste Turismo;HEADQUARTERS;889477;1302603;ACTIVE
+G0WW7077000173;Aurivale Serviços Administrativos Ltda.;Aurivale Serviços;HEADQUARTERS;904904;2927408;ACTIVE
+KBG4CSAG000170;Brisalto Equipamentos e Suprimentos Ltda.;Brisalto Equipamentos;HEADQUARTERS;920331;3106200;ACTIVE
+4CJYYTK5000106;Cedalume Tecnologia e Sistemas Ltda.;Cedalume Tech;HEADQUARTERS;935758;2611606;ACTIVE
+9H22KNKG000150;Dunaviva Logística e Transportes Ltda.;Dunaviva Logística;HEADQUARTERS;951185;4106902;ACTIVE
+2ML1VT7H000189;Estrelume Comércio de Alimentos Ltda.;Estrelume Alimentos;HEADQUARTERS;966612;5208707;ACTIVE
+ZYJAHG40000186;Floravento Engenharia e Projetos Ltda.;Floravento Engenharia;HEADQUARTERS;982039;5300108;ACTIVE
+Y9KSV3HJ000157;Graniluz Consultoria Empresarial S.A.;Graniluz Consultoria;HEADQUARTERS;997466;3550308;ACTIVE
+PBKEST06000150;Horizonte Azul Serviços Educacionais Ltda.;Horizonte Azul Educação;HEADQUARTERS;112893;2304400;ACTIVE
+SR490G1G000101;Ipê Dourado Soluções Ambientais Ltda.;Ipê Dourado Ambiental;HEADQUARTERS;128320;3304557;ACTIVE
+VKLRJHG1000106;Jatobá Novo Comércio de Materiais de Construção Ltda.;Jatobá Novo Construção;HEADQUARTERS;143747;4205407;ACTIVE
+8S5EJSB8000180;Lago Sereno Comunicação e Marketing Ltda.;Lago Sereno Comunicação;HEADQUARTERS;159174;4314902;ACTIVE
+1CMWVDX0000143;Monte Âmbar Confecções e Comércio Têxtil Ltda.;Monte Âmbar Têxtil;HEADQUARTERS;174601;1302603;ACTIVE
+35WCTADR000150;Nuvem Clara Manutenção Industrial Ltda.;Nuvem Clara Industrial;HEADQUARTERS;190028;2927408;ACTIVE
+HA54SPRL000193;Orivalle Turismo e Eventos Ltda.;Orivalle Turismo;HEADQUARTERS;205455;3106200;ACTIVE
+433N5RJN000102;Pedra Serena Móveis e Decoração Ltda.;Pedra Serena Móveis;HEADQUARTERS;220882;2611606;ACTIVE
+1LM3XRZC000120;Quintal Verde Serviços Administrativos Ltda.;Quintal Verde Serviços;HEADQUARTERS;236309;4106902;ACTIVE
+GXNE13KW000146;Riacho Novo Equipamentos e Suprimentos Ltda.;Riacho Novo Equipamentos;HEADQUARTERS;251736;5208707;ACTIVE
+CCNA8TK9000126;Serra Límpida Tecnologia e Sistemas S.A.;Serra Límpida Tech;HEADQUARTERS;267163;5300108;ACTIVE
+KSJ3W29Z000125;Terravento Logística e Transportes Ltda.;Terravento Logística;HEADQUARTERS;282590;3550308;ACTIVE
+75J2XPM4000181;Umbraluz Comércio de Alimentos Ltda.;Umbraluz Alimentos;HEADQUARTERS;298017;2304400;ACTIVE
+CHJ05DH4000132;Vale Safira Engenharia e Projetos Ltda.;Vale Safira Engenharia;HEADQUARTERS;313444;3304557;ACTIVE
+3APS9MMK000165;Veredamar Consultoria Empresarial Ltda.;Veredamar Consultoria;HEADQUARTERS;328871;4205407;ACTIVE
+LVA0X91G000127;Ventoclaro Serviços Educacionais Ltda.;Ventoclaro Educação;HEADQUARTERS;344298;4314902;ACTIVE
+LVA0X91G9MY496;Ventoclaro Serviços Educacionais Ltda.;Ventoclaro Educação - Brasília 01;BRANCH;359725;5300108;ACTIVE
+LVA0X91G5B3Z17;Ventoclaro Serviços Educacionais Ltda.;Ventoclaro Educação - Salvador 02;BRANCH;375152;2927408;ACTIVE
+LVA0X91G945Y06;Ventoclaro Serviços Educacionais Ltda.;Ventoclaro Educação - Fortaleza 03;BRANCH;390579;2304400;ACTIVE
+0JP913R8000104;Cedro Nobre Soluções Ambientais Ltda.;Cedro Nobre Ambiental;HEADQUARTERS;406006;1302603;ACTIVE
+G06JAALD000109;Bosque Solar Comércio de Materiais de Construção Ltda.;Bosque Solar Construção;HEADQUARTERS;421433;2927408;ACTIVE
+W6THSJEY000152;Pontal Novo Comunicação e Marketing Ltda.;Pontal Novo Comunicação;HEADQUARTERS;436860;3106200;ACTIVE
+1X4T2P0Y000101;Rota Dourada Confecções e Comércio Têxtil Ltda.;Rota Dourada Têxtil;HEADQUARTERS;452287;2611606;ACTIVE
+B8LZR26L000115;Sol de Minas Manutenção Industrial Ltda.;Sol de Minas Industrial;HEADQUARTERS;467714;4106902;ACTIVE
+8C47NG23000183;Campo Sereno Turismo e Eventos S.A.;Campo Sereno Turismo;HEADQUARTERS;483141;5208707;ACTIVE
+G5VAZYJV000170;Arco Celeste Móveis e Decoração Ltda.;Arco Celeste Móveis;HEADQUARTERS;498568;5300108;ACTIVE
+Y44NZ2ZY000135;Aurivale Equipamentos e Suprimentos Ltda.;Aurivale Equipamentos;HEADQUARTERS;513995;3550308;ACTIVE
+6VJAC21C000110;Brisalto Tecnologia e Sistemas Ltda.;Brisalto Tech;HEADQUARTERS;529422;2304400;ACTIVE
+EMCM5V6Y000141;Cedalume Logística e Transportes Ltda.;Cedalume Logística;HEADQUARTERS;544849;3304557;ACTIVE
+NA2WW8SR000190;Dunaviva Comércio de Alimentos Ltda.;Dunaviva Alimentos;HEADQUARTERS;560276;4205407;ACTIVE
+7AM4CHN6000150;Estrelume Engenharia e Projetos Ltda.;Estrelume Engenharia;HEADQUARTERS;575703;4314902;ACTIVE
+ZWVKBE4Y000148;Floravento Consultoria Empresarial Ltda.;Floravento Consultoria;HEADQUARTERS;591130;1302603;ACTIVE
+BA6NXCYY000144;Graniluz Serviços Educacionais Ltda.;Graniluz Educação;HEADQUARTERS;606557;2927408;ACTIVE
+EBMGS2NV000189;Horizonte Azul Soluções Ambientais Ltda.;Horizonte Azul Ambiental;HEADQUARTERS;621984;3106200;ACTIVE
+YDR96A5D000179;Ipê Dourado Comércio de Materiais de Construção Ltda.;Ipê Dourado Construção;HEADQUARTERS;637411;2611606;ACTIVE
+HGB1L952000186;Jatobá Novo Comunicação e Marketing S.A.;Jatobá Novo Comunicação;HEADQUARTERS;652838;4106902;ACTIVE
+E6SNSNNK000191;Lago Sereno Confecções e Comércio Têxtil Ltda.;Lago Sereno Têxtil;HEADQUARTERS;668265;5208707;ACTIVE
+PT7WEX7R000105;Monte Âmbar Manutenção Industrial Ltda.;Monte Âmbar Industrial;HEADQUARTERS;683692;5300108;ACTIVE
+PG3HPD15000179;Nuvem Clara Turismo e Eventos Ltda.;Nuvem Clara Turismo;HEADQUARTERS;699119;3550308;ACTIVE
+NMKWP0MN000124;Orivalle Móveis e Decoração Ltda.;Orivalle Móveis;HEADQUARTERS;714546;2304400;ACTIVE
+42KP4LH8000193;Pedra Serena Serviços Administrativos Ltda.;Pedra Serena Serviços;HEADQUARTERS;729973;3304557;ACTIVE
+2512M3KD000155;Quintal Verde Equipamentos e Suprimentos Ltda.;Quintal Verde Equipamentos;HEADQUARTERS;745400;4205407;ACTIVE
+2512M3KD4WR551;Quintal Verde Equipamentos e Suprimentos Ltda.;Quintal Verde Equipamentos - Goiânia 01;BRANCH;760827;5208707;ACTIVE
+2512M3KDG1S700;Quintal Verde Equipamentos e Suprimentos Ltda.;Quintal Verde Equipamentos - Manaus 02;BRANCH;776254;1302603;ACTIVE
+R95CL2VW000150;Riacho Novo Tecnologia e Sistemas Ltda.;Riacho Novo Tech;HEADQUARTERS;791681;4314902;ACTIVE
+BCV9XJ8T000140;Serra Límpida Logística e Transportes Ltda.;Serra Límpida Logística;HEADQUARTERS;807108;1302603;ACTIVE
+JB2RP8CS000169;Terravento Comércio de Alimentos Ltda.;Terravento Alimentos;HEADQUARTERS;822535;2927408;ACTIVE
+JYCKBH7D000150;Umbraluz Engenharia e Projetos Ltda.;Umbraluz Engenharia;HEADQUARTERS;837962;3106200;ACTIVE
+XEBN38WT000103;Vale Safira Consultoria Empresarial S.A.;Vale Safira Consultoria;HEADQUARTERS;853389;2611606;ACTIVE
+EWTMKC2Y000157;Veredamar Serviços Educacionais Ltda.;Veredamar Educação;HEADQUARTERS;868816;4106902;ACTIVE
+EWTMKC2YM66D07;Veredamar Serviços Educacionais Ltda.;Veredamar Educação - Porto Alegre 01;BRANCH;884243;4314902;ACTIVE
+EWTMKC2YB9DR63;Veredamar Serviços Educacionais Ltda.;Veredamar Educação - Brasília 02;BRANCH;899670;5300108;ACTIVE
+EWTMKC2Y55CP61;Veredamar Serviços Educacionais Ltda.;Veredamar Educação - Salvador 03;BRANCH;915097;2927408;ACTIVE
+4NJ8B45S000176;Ventoclaro Soluções Ambientais Ltda.;Ventoclaro Ambiental;HEADQUARTERS;930524;5208707;ACTIVE
+M3ZVLAEW000133;Cedro Nobre Comércio de Materiais de Construção Ltda.;Cedro Nobre Construção;HEADQUARTERS;945951;5300108;ACTIVE
+0C5GP2J4000101;Bosque Solar Comunicação e Marketing Ltda.;Bosque Solar Comunicação;HEADQUARTERS;961378;3550308;ACTIVE
+5MRVZZPJ000146;Pontal Novo Confecções e Comércio Têxtil Ltda.;Pontal Novo Têxtil;HEADQUARTERS;976805;2304400;ACTIVE
+95V0WDEK000109;Rota Dourada Manutenção Industrial Ltda.;Rota Dourada Industrial;HEADQUARTERS;992232;3304557;ACTIVE
+8C3YXW73000197;Sol de Minas Turismo e Eventos Ltda.;Sol de Minas Turismo;HEADQUARTERS;107659;4205407;ACTIVE
+S3SGVMX6000124;Campo Sereno Móveis e Decoração Ltda.;Campo Sereno Móveis;HEADQUARTERS;123086;4314902;ACTIVE
+GEV0DDNV000176;Arco Celeste Serviços Administrativos Ltda.;Arco Celeste Serviços;HEADQUARTERS;138513;1302603;ACTIVE
+GEV0DDNV6JEY53;Arco Celeste Serviços Administrativos Ltda.;Arco Celeste Serviços - São Paulo 01;BRANCH;153940;3550308;ACTIVE
+GEV0DDNVXN8733;Arco Celeste Serviços Administrativos Ltda.;Arco Celeste Serviços - Belo Horizonte 02;BRANCH;169367;3106200;ACTIVE
+GEV0DDNVPZV580;Arco Celeste Serviços Administrativos Ltda.;Arco Celeste Serviços - Rio de Janeiro 03;BRANCH;184794;3304557;ACTIVE
